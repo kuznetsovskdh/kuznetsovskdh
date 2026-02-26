@@ -2,7 +2,7 @@
   <img src="https://i.redd.it/fv1flk6mg00d1.jpeg" width="100%">
 </p>
 <h1 align="center">Привет 👋 Меня зовут Илья</h1>
-<h3>About me</h3>
+<h3>About me:</h3>
 <ul>
   <li>Beginner in Data Science, focused on real practice</li>
   <li>Actively looking for challenging tasks and useful experience</li>
